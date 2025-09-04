@@ -1,6 +1,10 @@
-<h1 align="center" > < Hello World /> 👋</h1>
-
-<h2 align="center">I'm Nikunj Maheshwari</h2>
+<h2 align="center" > < Hello World /> 👋</h2>
+<h1 align="center">I'm Nikunj Maheshwari</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%9A%80;App+%26+Web+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">💡 Building products at the intersection of AI, Apps & Cloud</h3>
 
 ---
@@ -53,27 +57,6 @@
 
 ---
 
-## 📚 Leadership & Extracurriculars
-- **Assistant Executive Secretary, CYPHER (Coding Club, NEHU)** – Organized coding competitions & workshops, managed event operations.
-- **Tech Team Member, CODEMATE (Coding group, NEHU)** - Conducted induction sessions, mentored juniors in programming languages like Python, C, etc.
-- **Founder, Kodovers** - Kodovers is a Collaborative IT services platform where we craft stunning, high-performance websites/apps that captivate, convert, and elevate user's online presence.
-
----
-
-## 📊 GitHub Stats
-![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=markstone111&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markstone111&layout=compact&theme=radical)
-
-
----
-
-## 📊 GitHub Analytics
-![](https://github-readme-streak-stats.herokuapp.com?user=markstone111&theme=tokyonight&hide_border=true)
-![](https://github-readme-activity-graph.vercel.app/graph?username=markstone111&theme=tokyo-night)
-
-
----
 
 ## 🔮 Currently Exploring
 - GenAI-powered app development  
@@ -93,6 +76,28 @@
 ## ⭐ Experience
 - Internship in AI - Built a **Human-Pose-Dectection** tool using **openCV**. 
 - Intership on AI and Data Analytics - Built a **ChatBot** using **NLP, TensorFlow, etc**. 
+
+
+---
+
+## 📚 Leadership & Extracurriculars
+- **Assistant Executive Secretary, CYPHER (Coding Club, NEHU)** – Organized coding competitions & workshops, managed event operations.
+- **Tech Team Member, CODEMATE (Coding group, NEHU)** - Conducted induction sessions, mentored juniors in programming languages like Python, C, etc.
+- **Founder, Kodovers** - Kodovers is a Collaborative IT services platform where we craft stunning, high-performance websites/apps that captivate, convert, and elevate user's online presence.
+
+---
+
+## 📊 GitHub Stats
+![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=markstone111&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markstone111&layout=compact&theme=radical)
+
+
+---
+
+## 📊 GitHub Analytics
+![](https://github-readme-streak-stats.herokuapp.com?user=markstone111&theme=tokyonight&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=markstone111&theme=tokyo-night)
 
 ---
 <!--
@@ -120,6 +125,17 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77AFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!+✨" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Animation" />
+</p>
+
+---
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=markstone111)
 
