@@ -83,7 +83,7 @@
 ## 📚 Leadership & Extracurriculars
 - **Assistant Executive Secretary, CYPHER (Coding Club, NEHU)** – Organized coding competitions & workshops, managed event operations.
 - **Tech Team Member, CODEMATE (Coding group, NEHU)** - Conducted induction sessions, mentored juniors in programming languages like Python, C, etc.
-- **Founder, Kodovers** - Kodovers is a Collaborative IT services platform where we craft stunning, high-performance websites/apps that captivate, convert, and elevate user's online presence.
+- **Co-Founder, Kodovers** - Kodovers is a Collaborative IT services platform where we craft stunning, high-performance websites/apps that captivate, convert, and elevate user's online presence.
 
 ---
 
