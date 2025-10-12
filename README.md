@@ -115,10 +115,10 @@
 ---
 
 ## 🤝 Let’s Connect
-📩 Email: [nikunjnehu@gmail.com](mailto:nikunjnehu@gmail.com)  
-🌐 Portfolio: [nikunjmaheshwari.vercel.app](https://nikunjmaheshwari.vercel.app)  
-💼 LinkedIn: [linkedin.com/in/nikunjm111](https://linkedin.com/in/nikunjm111)  
-🏹 LeetCode: [leetcode.com/u/nikunjm111](https://leetcode.com/u/nikunjm111)  
+📩 Email: [Contact](mailto:contact@nikunjmaheshwari.xyz)  
+🌐 Portfolio: [nikunjmaheshwari.xyz](https://nikunjmaheshwari.xyz)  
+💼 LinkedIn: [nikunjm111](https://linkedin.com/in/nikunjm111)  
+🏹 LeetCode: [nikunjm111](https://leetcode.com/u/nikunjm111)  
 
 ---
 
