@@ -62,6 +62,7 @@
 - GenAI-powered app development  
 - Cloud backend systems (Supabase, Firebase, Docker)  
 - Scaling mobile apps to **handle 100K+ users**
+- Working on CivicResolve
 
 ---
 
@@ -116,7 +117,7 @@
 
 ## 🤝 Let’s Connect
 📩 Email: [Contact](mailto:contact@nikunjmaheshwari.xyz)  
-🌐 Portfolio: [nikunjmaheshwari.xyz](https://nikunjmaheshwari.xyz)  
+🌐 Portfolio: [nikunjmaheshwari.xyz](https://nikunjmaheshwari.in)  
 💼 LinkedIn: [nikunjm111](https://linkedin.com/in/nikunjm111)  
 🏹 LeetCode: [nikunjm111](https://leetcode.com/u/nikunjm111)  
 
